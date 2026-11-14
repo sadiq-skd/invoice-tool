@@ -1,1 +1,1 @@
-TAX_RATE = 0.17
+TAX_RATE = 0.15
